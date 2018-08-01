@@ -84,3 +84,26 @@ h2{
     bottom:145px;
     left:20px;
 }
+h6{
+
+text-align: center;
+font-size: 13px
+top: 250px;
+}
+
+
+#centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    
+}
+h1{
+    position:absolute;
+    top:150px;
+    left: 350px;
+    text-align: center;
+    color: #FFFFFF;
+    font-size: 56px;
+}
