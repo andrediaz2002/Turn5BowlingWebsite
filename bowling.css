@@ -210,3 +210,76 @@ a:hover{
   justify-content: center;
   align-items: center;
 }
+
+.contane{
+    
+    margin-right: 10%;
+    right:40%;
+}
+
+
+.message{
+    top: 50%;
+    width: 50%;
+    margin-left: 25%;
+    font-size: 16px;
+}
+
+
+#centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    
+}
+h1{
+    position:absolute;
+    top:150px;
+    left: 400px;
+    text-align: center;
+    color: #FFFFFF;
+    font-size: 56px;
+}
+
+header {
+    background-color: black;
+    padding: 1px;
+    text-align: center;
+    font-size: 50px;
+    color: white;
+    float: center
+}
+
+
+
+
+
+
+img{
+    width: 500px;
+    height: 3000px;
+    right: 300px;
+
+}
+
+red{
+	background-color: #d62839;
+    height: 300px;
+}
+
+orange {
+background-color: #fe5f00;
+height: 700px;
+width: 9000px;
+
+}
+
+
+h6{
+
+text-align: center;
+font-size: 13px
+top: 250px;
+    
+}
