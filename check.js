@@ -1,4 +1,5 @@
-// init the state from the input
+$( document ).ready(function() {
+// // init the state from the input
 $(".image-checkbox").each(function () {
   if ($(this).find('input[type="checkbox"]').first().attr("checked")) {
     $(this).addClass('image-checkbox-checked');
@@ -16,3 +17,4 @@ $(".image-checkbox").on("click", function (e) {
 
   e.preventDefault();
 });
+    });
