@@ -18,9 +18,10 @@ body {
 }
 /* [class*=white]{
 	height: 700px;
-}
+} */
 [class*=orange]{
-    height: 700px;} */
+   background-color:#F26522;
+}
 
 
 /* meant to be removed/commented when header is added */
